@@ -7,15 +7,18 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
+
 h1 {
     font-size: 2em;
     color: #333;
     text-align: center;
 }
+
 a {
     color: #007BFF;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
